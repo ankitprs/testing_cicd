@@ -52,7 +52,7 @@ on:
 
 env:
   PROJECT_ID: channelnest # TODO: update Google Cloud project id
-  SERVICE: testing_cicd # TODO: update Cloud Run service name
+  SERVICE: testing-cicd # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
 
 jobs:
